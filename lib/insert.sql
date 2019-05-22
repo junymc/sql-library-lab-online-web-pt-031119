@@ -21,6 +21,6 @@ INSERT INTO characters (id, name, motto, species, author_id, series_id) VALUES
 (8, "Character Four", "motto four", "cylon", 2, 2);
 
 
-INSERT INTO subgenres (id, name) VALUES 
-(1, "medieval"), 
+INSERT INTO subgenres (id, name) VALUES
+(1, "medieval"),
 (2, "space opera");
